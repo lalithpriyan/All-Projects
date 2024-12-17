@@ -1,0 +1,63 @@
+I gave 3 files in this folder to get to know what exactly i have done in this project,
+1. Read me (This Note, Contains all information)
+2. Project File
+3. Dataset
+
+
+Kindly Contact me if your willing to join me in your team.
+
+Name: Lalith Priyan Vadivel
+Phone: +44 7466592848
+Email: lalithpriyanvadivel@gmail.com
+LinkedIn: linkedin.com/in/lalithpriyan
+Location: Liverpool, England, UK
+
+-----------------------------------------------
+
+
+Project: Excel | E-commerce Sales Overview Dashboard
+
+Summary:
+This project involved designing an Excel-based interactive dashboard to analyze sales performance for an e-commerce business. The dashboard provides detailed insights into sales trends, customer segmentation, geographic distribution, and product category performance. It enables stakeholders to identify key drivers of profitability and make data-driven decisions to optimize operations and strategy.
+
+Client Requirements:
+The client required an E-commerce Sales Overview Dashboard with the following objectives:
+1. Total Sales: Display overall sales revenue for the selected period.
+2. Total Profit: Calculate and display total profit with associated profit margin percentages.
+3. Total Order Quantity: Summarize the number of orders processed.
+4. Monthly Sales Trends: Visualize sales trends across months to understand seasonality.
+5. Market Region Insights: Showcase sales distribution by geographic regions using a pie chart.
+6. Customer Segments: Analyze sales based on customer types (Consumer, Corporate, Home Office).
+7. Shipping Modes: Highlight orders processed under different shipping methods.
+8. Top & Bottom Performers: List top 5 and bottom 5 categories and countries by sales revenue.
+
+Stakeholders:
+1. E-commerce Business Owners
+2. Sales and Marketing Teams
+3. Supply Chain Managers
+4. Financial Analysts
+5. Customer Service Teams
+6. Product Development Teams
+7. Logistics and Operations Teams
+8. Investors and Business Partners
+
+Steps in Project:
+1. Requirement Gathering
+2. Stakeholder Identification
+3. Data Collection from e-commerce databases
+4. Data Cleaning and Formatting in Excel
+5. Data Modeling and Pivot Table Creation
+6. Dashboard Design and Layout Development
+7. Chart and Graph Integration for Visual Insights
+8. Insights Documentation and Final Presentation
+
+Insights and Final Outcome:
+1. Total sales revenue recorded was $2,64,74,659, with a total profit of $24,95,874 and an average profit margin of 10.86%.
+2. The total order quantity was 2,84,209, indicating a significant volume of transactions.
+3. Monthly sales trends showed consistent revenue throughout the year, with slight peaks in certain months.
+4. Market regions such as Europe (25%) and LATAM (24%) dominated the sales distribution.
+5. The Consumer segment ($13.85M) accounted for the largest share of sales compared to Corporate and Home Office.
+6. Cardio Equipment ($4.66M) led the top categories, while Baby ($11.40K) ranked as the lowest-performing category.
+7. The United States ($3.71M) emerged as the top-performing country, while India ($0.59M) contributed the least among the top 10.
+8. The dashboard provided actionable insights to optimize product performance and regional sales strategies.
+
