@@ -15,38 +15,48 @@ Location: Liverpool, England, UK
 -----------------------------------------------
 
 
-Project: Excel | ELECTRIC VEHICLE DASHBOARD ANALYSIS
+Project: Excel | India General Elections Analysis 2024
 
 Summary:
-This project involved creating an interactive Tableau dashboard to analyze Electric Vehicle (EV – Electric Vehicle) trends in the United States. It highlights Battery Electric Vehicle (BEV – fully electric vehicles) and Plug-in Hybrid Electric Vehicle (PHEV – vehicles combining electric motors and internal combustion engines) adoption, state-wise distribution, and top EV manufacturers and models. The dashboard provides insights into market trends, technological advancements, and consumer preferences, aiding stakeholders in making data-driven decisions.
+This project involved creating a Tableau-based election results dashboard for India's 2024 General Election, focusing on state and constituency-level analysis. The dashboard provides comprehensive insights into voting patterns, party performance, and candidate statistics for informed electoral analysis.
 
-Requirements:
-The dashboard was designed to fulfill the following requirements:
-1. Analyze total Electric Vehicles (EVs), Battery Electric Vehicles (BEVs), and Plug-in Hybrid Electric Vehicles (PHEVs).
-2. Calculate average electric range.
-3. Visualize EV registrations by year and state.
-4. Identify the top 10 vehicle makes and models.
-5. Illustrate Clean Alternative Fuel Vehicle (CAFV) eligibility distribution.
+Client Requirements:
+The client required an Election Results Dashboard with the following objectives:
+1. Election Overview: Display key electoral statistics and results
+2. Constituency Analysis: Show detailed constituency-wise results
+3. Party Performance: Track seats won by different parties and alliances
+4. Vote Distribution: Analyze total votes, EVM votes, and postal votes
+5. Candidate Analysis: Display top performing candidates
+6. Party Alliance Tracking: Monitor performance of major political alliances
+7. Vote Share Analysis: Calculate percentage vote shares
+8. Filtering Capabilities: Enable detailed constituency and state-level analysis
 
 Stakeholders:
-1. Electric Vehicle (EV) manufacturers
-2. Government agencies
-3. Policy advisors
-4. Infrastructure companies
-5. Consumers
+1. Election Commission Officials
+2. Political Parties
+3. Constituency Representatives
+4. Media Organizations
+5. Political Analysts
+6. Election Observers
+7. Government Officials
+8. General Public
 
 Steps in Project:
-1. Defined Key Performance Indicators (KPIs) and chart requirements.
-2. Cleaned data using Microsoft Excel.
-3. Connected data to Tableau.
-4. Built visualizations: line charts, maps, bar charts, and donut charts.
-5. Created an interactive dashboard with filters.
-6. Finalized and tested the dashboard.
+1. Electoral Data Collection
+2. Data Validation and Processing
+3. Tableau Model Development
+4. Dashboard Layout Design
+5. Visualization Creation
+6. Filter Implementation
+7. Testing and Verification
+8. Documentation and Deployment
 
 Insights and Final Outcome:
-1. Total Electric Vehicles (EVs): 1,50,422, with Battery Electric Vehicles (BEVs) at 77.61% and Plug-in Hybrid Electric Vehicles (PHEVs) at 22.39%.
-2. Average electric range: 67.83 km.
-3. California leads Electric Vehicle (EV) adoption.
-4. Tesla dominates with 53% of the market.
-5. Tesla Model Y and Model 3 are the most popular vehicles.
-6. 41.81% of vehicles are Clean Alternative Fuel Vehicle (CAFV)-eligible.
+1. Electoral Scale: 82 total seats with 842 candidates across 6 parties
+2. Voter Participation: 8,99,73,014 total votes cast (8,97,09,566 EVM, 2,63,448 postal)
+3. Party Performance: SP leads with 37 seats, followed by BJP with 35 seats
+4. Alliance Distribution: I.N.D.I.A. Alliance won 43 seats, NDA won 38 seats
+5. Vote Share: BJP leads with 42.32% (3,75,00,612 votes)
+6. Top Candidate: Raj Nath Singh (BJP) won Lucknow with 53.89% votes
+7. Margin Analysis: Winning margin of 1,35,159 votes in highlighted constituency
+8. Geographic Coverage: Complete results for Uttar Pradesh state
