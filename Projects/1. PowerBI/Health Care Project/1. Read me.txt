@@ -14,51 +14,48 @@ Location: Liverpool, England, UK
 
 -----------------------------------------------
 
+Project: Power BI | Healthcare Analysis Dashboard
 
+1. Summary:
+This project involved creating a Power BI-based healthcare analysis dashboard focusing on member screening statistics. The dashboard provides detailed insights into screening eligibility, completion rates, and demographic breakdowns to help healthcare providers improve screening program effectiveness.
 
-Project: PowerBI | Hospital Emergency Room Dashboard
+2. Client Requirements:
+The client required a Healthcare Analysis Dashboard with the following objectives:
+Screening Overview: Display total eligible members and screening rates.
+Demographic Analysis: Break down members by ethnicity and race.
+Regional Distribution: Show member distribution across regions.
+Language Preferences: Track preferred languages of eligible members.
+Completion Tracking: Monitor screening completion rates.
+Filter Implementation: Enable detailed analysis through multiple filters.
+Demographic Insights: Analyze screening eligibility across different populations.
+Data Visualization: Present complex healthcare data in an accessible format.
 
-Summary:
-This project involved creating a dynamic Power BI dashboard to analyze emergency room data over a 19-month period (April 2023 – October 2024). The dashboard provides actionable insights into patient trends, wait times, satisfaction scores, and demographic distributions. It highlights key performance indicators (KPIs) and allows stakeholders to make informed decisions to enhance patient care and resource allocation.
+3. Stakeholders:
+Healthcare Administrators
+Medical Providers
+Population Health Managers
+Quality Improvement Teams
+Patient Outreach Coordinators
+Healthcare Analytics Teams
+Language Services Department
+Regional Healthcare Directors
 
-Client Requirements:
-The client wanted to create an Emergency Room Dashboard to address the following requirements:
-1. Primary KPIs: Number of patients, average wait time, and patient satisfaction scores for the selected period.
-2. Efficiency Metrics: Percentage of patients seen within 30 minutes and distribution of referrals by department.
-3. Demographics Analysis: Number of patients by age group, gender, and race.
-4. Hourly and Weekly Trends: Patient distribution by day and hour to identify peak times and ensure staffing optimization.
-5. Admission Insights: Analysis of admitted vs. non-admitted patients to identify trends in emergency care outcomes.
+4. Steps in Project:
+Healthcare Data Collection
+Data Cleaning and Validation
+Power BI Model Development
+Dashboard Layout Design
+Visualization Creation
+Filter Panel Implementation
+Quality Assurance Testing
+Documentation and Deployment
 
-Stakeholders:
-1. Hospital Management
-2. Emergency Room Staff
-3. Healthcare Analysts
-4. Patient Experience Teams
-5. Public Health Authorities
-6. Insurance Providers
-7. Local Government Health Departments
-
-Steps in Project:
-1. Requirement Gathering
-2. Stakeholder Identification
-3. Data Collection and Review
-4. Data Cleaning and Preprocessing
-5. Data Connection and Modeling in Power BI
-6. Designing Interactive Backgrounds in PowerPoint
-7. Developing KPIs and Visuals
-8. Dashboard Design and Interactivity
-9. Insights Generation
-10. Final Dashboard Presentation
-
-Insights and Final Outcome:
-1. The average wait time was 35.3 minutes, with a satisfaction score of 4.99 out of 10, indicating moderate satisfaction and areas for improvement.
-2. Peak patient inflow occurred on Mondays (1,377 patients) and during late-night and early-morning hours, particularly 11 AM, 7 PM, 1 PM, and 11 PM.
-3. Demographic analysis revealed the highest patient group to be adults aged 30-39 years (1,200 patients), followed closely by young adults aged 20-29 years (1,188 patients).
-4. White patients (2,571) formed the largest racial group, followed by African Americans (1,951) and multi-racial individuals (1,557).
-5. Departmental referrals were dominated by General Practice (1,840 cases) and Orthopedics (995 cases), while 5,400 patients did not require referrals.
-6. Nearly half of the patients (4,612) were admitted, with the rest treated and released.
-
-Key Takeaways:
-1. The dataset highlights high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics.
-2. Mondays and late-night to early-morning hours were identified as peak times, requiring additional staffing.
-3. Demographics showed a diverse age and racial composition, aiding in targeted improvements to emergency services.
+5. Insights and Final Outcome:
+Screening Eligibility: 6,597 total members eligible for screening.
+Completion Rate: 4,184 members (63%) received screening, while 2,413 (37%) did not.
+Ethnic Distribution: 69.61% Not Hispanic or Latino, 6.94% Hispanic or Latino, 23.45% Unknown.
+Regional Breakdown: USCA dominates with 77.4% (5.1K members), followed by APAC and EMEA.
+Language Preferences: English leads with 4,837 members, followed by Russian (499) and Korean (357).
+Racial Demographics: White (3,207) and Unknown (1,539) form the largest groups, followed by Asian (883).
+Geographic Coverage: Strong presence in the USCA region with 5.1K members.
+Access Improvement: Data suggests the need for targeted outreach to the 37% unscreened population.
