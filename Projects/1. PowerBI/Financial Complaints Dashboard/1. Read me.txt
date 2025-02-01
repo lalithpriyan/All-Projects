@@ -14,8 +14,6 @@ Location: Liverpool, England, UK
 
 -----------------------------------------------
 
-
-
 Project: Power BI | Financial Complaints Overview Dashboard
 
 Summary:
@@ -23,42 +21,41 @@ This project involved developing a Power BI-based financial complaints dashboard
 
 Client Requirements:
 The client required a Financial Complaints Overview Dashboard with the following objectives:
+1. Complaint Metrics: Track total complaints and response rates.
+2. Status Monitoring: Display in-progress and resolution statistics.
+3. Issue Analysis: Categorize complaints by type of issue.
+4. Geographic Distribution: Visualize complaints across states.
+5. Trend Analysis: Monitor monthly complaint volumes.
+6. Product Categories: Analyze complaints by financial product.
+7. Resolution Tracking: Monitor dispute and resolution rates.
+8. Time Period Analysis: Enable date-based filtering.
 
-Complaint Metrics: Track total complaints and response rates.
-Status Monitoring: Display in-progress and resolution statistics.
-Issue Analysis: Categorize complaints by type of issue.
-Geographic Distribution: Visualize complaints across states.
-Trend Analysis: Monitor monthly complaint volumes.
-Product Categories: Analyze complaints by financial product.
-Resolution Tracking: Monitor dispute and resolution rates.
-Time Period Analysis: Enable date-based filtering.
 Stakeholders:
+1. Financial Institution Management
+2. Customer Service Teams
+3. Compliance Officers
+4. Risk Management Teams
+5. Product Managers
+6. Quality Assurance Teams
+7. Regional Managers
+8. Regulatory Affairs Department
 
-Financial Institution Management
-Customer Service Teams
-Compliance Officers
-Risk Management Teams
-Product Managers
-Quality Assurance Teams
-Regional Managers
-Regulatory Affairs Department
 Steps in Project:
+1. Complaint Data Collection
+2. Data Cleaning and Standardization
+3. Power BI Model Creation
+4. Dashboard Layout Design
+5. Visualization Development
+6. Filter Implementation
+7. Quality Testing
+8. Documentation and Deployment
 
-Complaint Data Collection
-Data Cleaning and Standardization
-Power BI Model Creation
-Dashboard Layout Design
-Visualization Development
-Filter Implementation
-Quality Testing
-Documentation and Deployment
 Insights and Final Outcome:
-
-Volume Statistics: 75,074 total complaints with 280 currently in progress.
-Response Performance: 98.05% timely response rate.
-Resolution Success: 84.50% resolved at no cost, with 9.71% disputed rate.
-Top Issues: Account management leads with 8.8K complaints, followed by deposits/withdrawals (6.1K).
-Product Distribution: Credit cards (19K) and mortgages (12K) are the most complained about products.
-Monthly Patterns: Peak complaints in April (7.1K) with December showing the lowest (5.4K).
-Geographic Trends: Higher concentration in eastern states shown on the map.
-Dispute Analysis: 41.27% not disputed, with 49.01% N/A status.
+1. Volume Statistics: 75,074 total complaints with 280 currently in progress.
+2. Response Performance: 98.05% timely response rate.
+3. Resolution Success: 84.50% resolved at no cost, with 9.71% disputed rate.
+4. Top Issues: Account management leads with 8.8K complaints, followed by deposits/withdrawals (6.1K).
+5. Product Distribution: Credit cards (19K) and mortgages (12K) are the most complained about products.
+6. Monthly Patterns: Peak complaints in April (7.1K) with December showing the lowest (5.4K).
+7. Geographic Trends: Higher concentration in eastern states shown on the map.
+8. Dispute Analysis: 41.27% not disputed, with 49.01% N/A status.
