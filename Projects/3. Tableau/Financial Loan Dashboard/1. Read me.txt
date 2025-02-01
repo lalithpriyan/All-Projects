@@ -15,38 +15,48 @@ Location: Liverpool, England, UK
 -----------------------------------------------
 
 
-Project: Excel | ELECTRIC VEHICLE DASHBOARD ANALYSIS
+Project: Excel | Financial Loan Dashboard
 
 Summary:
-This project involved creating an interactive Tableau dashboard to analyze Electric Vehicle (EV – Electric Vehicle) trends in the United States. It highlights Battery Electric Vehicle (BEV – fully electric vehicles) and Plug-in Hybrid Electric Vehicle (PHEV – vehicles combining electric motors and internal combustion engines) adoption, state-wise distribution, and top EV manufacturers and models. The dashboard provides insights into market trends, technological advancements, and consumer preferences, aiding stakeholders in making data-driven decisions.
+This project involved developing a Tableau-based financial loan dashboard that provides comprehensive insights into loan performance, distribution, and risk assessment. The dashboard enables financial institutions to monitor loan portfolios, analyze geographic distribution, and track loan quality metrics for improved decision-making.
 
-Requirements:
-The dashboard was designed to fulfill the following requirements:
-1. Analyze total Electric Vehicles (EVs), Battery Electric Vehicles (BEVs), and Plug-in Hybrid Electric Vehicles (PHEVs).
-2. Calculate average electric range.
-3. Visualize EV registrations by year and state.
-4. Identify the top 10 vehicle makes and models.
-5. Illustrate Clean Alternative Fuel Vehicle (CAFV) eligibility distribution.
+Client Requirements:
+The client required a Financial Loan Dashboard with the following objectives:
+1. Loan Overview: Display total loans issued and amounts funded
+2. Performance Analysis: Track good vs. bad loan ratios
+3. Geographic Distribution: Visualize state-wise loan issuance
+4. Purpose Analysis: Break down bad loans by purpose
+5. Term Analysis: Monitor loan terms distribution
+6. Grade Assessment: Track loan quality by grade
+7. Payment Tracking: Monitor total payment performance
+8. Trend Analysis: Visualize loan issuance trends
 
 Stakeholders:
-1. Electric Vehicle (EV) manufacturers
-2. Government agencies
-3. Policy advisors
-4. Infrastructure companies
-5. Consumers
+1. Loan Officers
+2. Risk Management Team
+3. Financial Analysts
+4. Credit Assessment Teams
+5. Portfolio Managers
+6. Branch Managers
+7. Executive Leadership
+8. Compliance Officers
 
 Steps in Project:
-1. Defined Key Performance Indicators (KPIs) and chart requirements.
-2. Cleaned data using Microsoft Excel.
-3. Connected data to Tableau.
-4. Built visualizations: line charts, maps, bar charts, and donut charts.
-5. Created an interactive dashboard with filters.
-6. Finalized and tested the dashboard.
+1. Loan Data Collection
+2. Data Cleaning and Validation
+3. Tableau Model Development
+4. Dashboard Layout Design
+5. Visualization Creation
+6. Geographic Mapping
+7. Performance Testing
+8. Documentation and Deployment
 
 Insights and Final Outcome:
-1. Total Electric Vehicles (EVs): 1,50,422, with Battery Electric Vehicles (BEVs) at 77.61% and Plug-in Hybrid Electric Vehicles (PHEVs) at 22.39%.
-2. Average electric range: 67.83 km.
-3. California leads Electric Vehicle (EV) adoption.
-4. Tesla dominates with 53% of the market.
-5. Tesla Model Y and Model 3 are the most popular vehicles.
-6. 41.81% of vehicles are Clean Alternative Fuel Vehicle (CAFV)-eligible.
+1. Loan Volume: 39,717 total loans issued with $434.8M funded amount
+2. Performance Split: 85.83% good loans (34,090) vs. 14.17% bad loans (5,627)
+3. Geographic Distribution: California leads with 7,099 loans, followed by New York (3,812)
+4. Bad Loan Analysis: Debt consolidation highest at 2,767 cases
+5. Term Structure: 75.88% are 36-month loans, 24.12% are 60-month loans
+6. Grade Distribution: B-grade loans highest at 31.08%, followed by A-grade at 27.82%
+7. Payment Performance: Total payments of $482.7M against funded amount
+8. Purpose Analysis: Debt consolidation shows 39.97% good loans vs. 6.97% bad loans
