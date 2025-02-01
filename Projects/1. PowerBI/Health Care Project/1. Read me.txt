@@ -21,41 +21,41 @@ This project involved creating a Power BI-based healthcare analysis dashboard fo
 
 2. Client Requirements:
 The client required a Healthcare Analysis Dashboard with the following objectives:
-Screening Overview: Display total eligible members and screening rates.
-Demographic Analysis: Break down members by ethnicity and race.
-Regional Distribution: Show member distribution across regions.
-Language Preferences: Track preferred languages of eligible members.
-Completion Tracking: Monitor screening completion rates.
-Filter Implementation: Enable detailed analysis through multiple filters.
-Demographic Insights: Analyze screening eligibility across different populations.
-Data Visualization: Present complex healthcare data in an accessible format.
+1. Screening Overview: Display total eligible members and screening rates.
+2. Demographic Analysis: Break down members by ethnicity and race.
+3. Regional Distribution: Show member distribution across regions.
+4. Language Preferences: Track preferred languages of eligible members.
+5. Completion Tracking: Monitor screening completion rates.
+6. Filter Implementation: Enable detailed analysis through multiple filters.
+7. Demographic Insights: Analyze screening eligibility across different populations.
+8. Data Visualization: Present complex healthcare data in an accessible format.
 
 3. Stakeholders:
-Healthcare Administrators
-Medical Providers
-Population Health Managers
-Quality Improvement Teams
-Patient Outreach Coordinators
-Healthcare Analytics Teams
-Language Services Department
-Regional Healthcare Directors
+1. Healthcare Administrators
+2. Medical Providers
+3. Population Health Managers
+4. Quality Improvement Teams
+5. Patient Outreach Coordinators
+6. Healthcare Analytics Teams
+7. Language Services Department
+8. Regional Healthcare Directors
 
 4. Steps in Project:
-Healthcare Data Collection
-Data Cleaning and Validation
-Power BI Model Development
-Dashboard Layout Design
-Visualization Creation
-Filter Panel Implementation
-Quality Assurance Testing
-Documentation and Deployment
+1. Healthcare Data Collection
+2. Data Cleaning and Validation
+3. Power BI Model Development
+4. Dashboard Layout Design
+5. Visualization Creation
+6. Filter Panel Implementation
+7. Quality Assurance Testing
+8. Documentation and Deployment
 
 5. Insights and Final Outcome:
-Screening Eligibility: 6,597 total members eligible for screening.
-Completion Rate: 4,184 members (63%) received screening, while 2,413 (37%) did not.
-Ethnic Distribution: 69.61% Not Hispanic or Latino, 6.94% Hispanic or Latino, 23.45% Unknown.
-Regional Breakdown: USCA dominates with 77.4% (5.1K members), followed by APAC and EMEA.
-Language Preferences: English leads with 4,837 members, followed by Russian (499) and Korean (357).
-Racial Demographics: White (3,207) and Unknown (1,539) form the largest groups, followed by Asian (883).
-Geographic Coverage: Strong presence in the USCA region with 5.1K members.
-Access Improvement: Data suggests the need for targeted outreach to the 37% unscreened population.
+1. Screening Eligibility: 6,597 total members eligible for screening.
+2. Completion Rate: 4,184 members (63%) received screening, while 2,413 (37%) did not.
+3. Ethnic Distribution: 69.61% Not Hispanic or Latino, 6.94% Hispanic or Latino, 23.45% Unknown.
+4. Regional Breakdown: USCA dominates with 77.4% (5.1K members), followed by APAC and EMEA.
+5. Language Preferences: English leads with 4,837 members, followed by Russian (499) and Korean (357).
+6. Racial Demographics: White (3,207) and Unknown (1,539) form the largest groups, followed by Asian (883).
+7. Geographic Coverage: Strong presence in the USCA region with 5.1K members.
+8. Access Improvement: Data suggests the need for targeted outreach to the 37% unscreened population.
