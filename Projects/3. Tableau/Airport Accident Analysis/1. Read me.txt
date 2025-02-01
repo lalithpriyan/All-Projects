@@ -15,38 +15,48 @@ Location: Liverpool, England, UK
 -----------------------------------------------
 
 
-Project: Excel | ELECTRIC VEHICLE DASHBOARD ANALYSIS
+Topic: Tableau | Aviation Accident Analysis Dashboard
 
 Summary:
-This project involved creating an interactive Tableau dashboard to analyze Electric Vehicle (EV – Electric Vehicle) trends in the United States. It highlights Battery Electric Vehicle (BEV – fully electric vehicles) and Plug-in Hybrid Electric Vehicle (PHEV – vehicles combining electric motors and internal combustion engines) adoption, state-wise distribution, and top EV manufacturers and models. The dashboard provides insights into market trends, technological advancements, and consumer preferences, aiding stakeholders in making data-driven decisions.
+This project involved creating a Tableau-based aviation accident analysis dashboard that provides comprehensive insights into aviation safety incidents. The dashboard focuses on accident distributions across locations, flight purposes, and damage assessments to support aviation safety improvements and risk management.
 
-Requirements:
-The dashboard was designed to fulfill the following requirements:
-1. Analyze total Electric Vehicles (EVs), Battery Electric Vehicles (BEVs), and Plug-in Hybrid Electric Vehicles (PHEVs).
-2. Calculate average electric range.
-3. Visualize EV registrations by year and state.
-4. Identify the top 10 vehicle makes and models.
-5. Illustrate Clean Alternative Fuel Vehicle (CAFV) eligibility distribution.
+Client Requirements:
+The client required an Aviation Accident Analysis Dashboard with the following objectives:
+1. Accident Overview: Display total accidents and US-specific incidents.
+2. Geographic Analysis: Show accident distribution by airport location.
+3. Historical Trends: Visualize accident patterns over years.
+4. Flight Phase Analysis: Break down accidents by flight phases.
+5. Purpose Classification: Categorize accidents by flight purpose.
+6. Damage Assessment: Analyze aircraft damage levels.
+7. Category Analysis: Track accidents by airplane category.
+8. Filter Implementation: Enable multi-dimensional data filtering.
 
 Stakeholders:
-1. Electric Vehicle (EV) manufacturers
-2. Government agencies
-3. Policy advisors
-4. Infrastructure companies
-5. Consumers
+1. Aviation Safety Authorities
+2. Airport Management Teams
+3. Flight Safety Investigators
+4. Aviation Insurance Companies
+5. Aircraft Manufacturers
+6. Pilot Training Organizations
+7. Air Traffic Control Management
+8. Aviation Policy Makers
 
 Steps in Project:
-1. Defined Key Performance Indicators (KPIs) and chart requirements.
-2. Cleaned data using Microsoft Excel.
-3. Connected data to Tableau.
-4. Built visualizations: line charts, maps, bar charts, and donut charts.
-5. Created an interactive dashboard with filters.
-6. Finalized and tested the dashboard.
+1. Aviation Data Collection
+2. Data Cleaning and Validation
+3. Tableau Model Development
+4. Dashboard Layout Design
+5. Visualization Creation
+6. Filter Panel Implementation
+7. Quality Testing
+8. Documentation and Deployment
 
 Insights and Final Outcome:
-1. Total Electric Vehicles (EVs): 1,50,422, with Battery Electric Vehicles (BEVs) at 77.61% and Plug-in Hybrid Electric Vehicles (PHEVs) at 22.39%.
-2. Average electric range: 67.83 km.
-3. California leads Electric Vehicle (EV) adoption.
-4. Tesla dominates with 53% of the market.
-5. Tesla Model Y and Model 3 are the most popular vehicles.
-6. 41.81% of vehicles are Clean Alternative Fuel Vehicle (CAFV)-eligible.
+1. Overall Statistics: 88,889 total aviation accidents with 82,248 (92.53%) in the United States.
+2. Airport Analysis: Anchorage, AK leads with 434 accidents, followed by Miami, FL (200).
+3. Flight Purpose: Personal flights account for the highest accidents (49,448), followed by Instructional (10,601).
+4. Phase Distribution: Null phase leads with 30.56%, followed by Landing (17.36%).
+5. Aircraft Damage: Substantial damage in 72.17% (64,148) of cases, followed by Destroyed at 20.95%.
+6. Categorical Impact: 27,617 accidents (31.07%) specific to airplane category.
+7. Historical Trend: Shows significant decline from peak in the early 1980s to present.
+8. Comprehensive Filtering: Multiple filter options including aircraft category, damage type, and location.
