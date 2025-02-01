@@ -15,50 +15,48 @@ Location: Liverpool, England, UK
 -----------------------------------------------
 
 
-
-Project: PowerBI | Hospital Emergency Room Dashboard
+Project: Power BI | Car Sales Dashboard
 
 Summary:
-This project involved creating a dynamic Power BI dashboard to analyze emergency room data over a 19-month period (April 2023 – October 2024). The dashboard provides actionable insights into patient trends, wait times, satisfaction scores, and demographic distributions. It highlights key performance indicators (KPIs) and allows stakeholders to make informed decisions to enhance patient care and resource allocation.
+This project involved creating a Power BI-based car sales dashboard that provides real-time insights into automotive sales performance from 02-01-2020 to 31-12-2021. The dashboard offers comprehensive analysis of sales trends, regional performance, and vehicle specifications to support data-driven decision-making in the automotive retail sector.
 
 Client Requirements:
-The client wanted to create an Emergency Room Dashboard to address the following requirements:
-1. Primary KPIs: Number of patients, average wait time, and patient satisfaction scores for the selected period.
-2. Efficiency Metrics: Percentage of patients seen within 30 minutes and distribution of referrals by department.
-3. Demographics Analysis: Number of patients by age group, gender, and race.
-4. Hourly and Weekly Trends: Patient distribution by day and hour to identify peak times and ensure staffing optimization.
-5. Admission Insights: Analysis of admitted vs. non-admitted patients to identify trends in emergency care outcomes.
+The client required a Car Sales Dashboard with the following objectives:
+1. Sales Overview: Display YTD and MTD sales metrics.
+2. Price Analysis: Track average vehicle prices and trends.
+3. Volume Tracking: Monitor the number of cars sold.
+4. Weekly Trends: Visualize sales patterns over weeks.
+5. Vehicle Categories: Analyze sales by body style and color.
+6. Geographic Analysis: Map dealer performance by region.
+7. Company Performance: Compare sales across car manufacturers.
+8. Filtering Capabilities: Enable detailed analysis through multiple filters.
 
 Stakeholders:
-1. Hospital Management
-2. Emergency Room Staff
-3. Healthcare Analysts
-4. Patient Experience Teams
-5. Public Health Authorities
-6. Insurance Providers
-7. Local Government Health Departments
+1. Car Dealership Owners
+2. Sales Managers
+3. Regional Directors
+4. Marketing Teams
+5. Inventory Managers
+6. Financial Analysts
+7. Automotive Manufacturers
+8. Business Development Teams
 
 Steps in Project:
-1. Requirement Gathering
-2. Stakeholder Identification
-3. Data Collection and Review
-4. Data Cleaning and Preprocessing
-5. Data Connection and Modeling in Power BI
-6. Designing Interactive Backgrounds in PowerPoint
-7. Developing KPIs and Visuals
-8. Dashboard Design and Interactivity
-9. Insights Generation
-10. Final Dashboard Presentation
+1. Data Collection from Dealership Systems
+2. Data Cleaning and Transformation
+3. Power BI Model Development
+4. Dashboard Design and Layout
+5. Visualization Creation
+6. Filter Implementation
+7. Performance Testing
+8. Deployment and Documentation
 
 Insights and Final Outcome:
-1. The average wait time was 35.3 minutes, with a satisfaction score of 4.99 out of 10, indicating moderate satisfaction and areas for improvement.
-2. Peak patient inflow occurred on Mondays (1,377 patients) and during late-night and early-morning hours, particularly 11 AM, 7 PM, 1 PM, and 11 PM.
-3. Demographic analysis revealed the highest patient group to be adults aged 30-39 years (1,200 patients), followed closely by young adults aged 20-29 years (1,188 patients).
-4. White patients (2,571) formed the largest racial group, followed by African Americans (1,951) and multi-racial individuals (1,557).
-5. Departmental referrals were dominated by General Practice (1,840 cases) and Orthopedics (995 cases), while 5,400 patients did not require referrals.
-6. Nearly half of the patients (4,612) were admitted, with the rest treated and released.
-
-Key Takeaways:
-1. The dataset highlights high patient volumes, moderate satisfaction levels, and common referrals to General Practice and Orthopedics.
-2. Mondays and late-night to early-morning hours were identified as peak times, requiring additional staffing.
-3. Demographics showed a diverse age and racial composition, aiding in targeted improvements to emergency services.
+1. Sales Performance: YTD total sales of $371.2M with 23.59% growth ($70.8M increase).
+2. Price Metrics: YTD average price of $28.0K, showing a slight decline (-0.79%, -$0.22K).
+3. Volume Success: 13.3K cars sold with significant growth of 24.57%.
+4. Weekly Pattern: Peak sales reaching $15.5M with a consistent growth trend.
+5. Vehicle Preferences: Strong representation of SUV and Hatchback body styles.
+6. Color Distribution: Dominated by Pale White and Black, with Red as the third choice.
+7. Brand Performance: Volkswagen leads with $18.2M (4.91% of total sales), followed by Toyota ($17.5M).
+8. Geographic Reach: Strong presence in regions like Janesville, Aurora, Austin, and Greenville.
