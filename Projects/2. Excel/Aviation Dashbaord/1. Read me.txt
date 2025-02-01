@@ -15,49 +15,48 @@ Location: Liverpool, England, UK
 -----------------------------------------------
 
 
-Project: Excel | E-commerce Sales Overview Dashboard
+Topic: Excel | Aviation Accident Analysis Dashboard
 
 Summary:
-This project involved designing an Excel-based interactive dashboard to analyze sales performance for an e-commerce business. The dashboard provides detailed insights into sales trends, customer segmentation, geographic distribution, and product category performance. It enables stakeholders to identify key drivers of profitability and make data-driven decisions to optimize operations and strategy.
+This project involved developing an Excel-based interactive dashboard for analyzing aviation accidents and safety data. The dashboard provides comprehensive insights into accident trends, injury statistics, geographic distribution, and various flight-related factors to help aviation authorities and stakeholders improve safety measures.
 
 Client Requirements:
-The client required an E-commerce Sales Overview Dashboard with the following objectives:
-1. Total Sales: Display overall sales revenue for the selected period.
-2. Total Profit: Calculate and display total profit with associated profit margin percentages.
-3. Total Order Quantity: Summarize the number of orders processed.
-4. Monthly Sales Trends: Visualize sales trends across months to understand seasonality.
-5. Market Region Insights: Showcase sales distribution by geographic regions using a pie chart.
-6. Customer Segments: Analyze sales based on customer types (Consumer, Corporate, Home Office).
-7. Shipping Modes: Highlight orders processed under different shipping methods.
-8. Top & Bottom Performers: List top 5 and bottom 5 categories and countries by sales revenue.
+The client required an Aviation Accident Analysis Dashboard with the following objectives:
+1. Overall Statistics: Display total accidents and injury severity breakdown.
+2. Geographic Analysis: Show top accident locations by airport.
+3. Historical Trends: Visualize accident patterns across years.
+4. Aircraft Damage Assessment: Categorize damage levels.
+5. Flight Purpose Analysis: Track accidents by mission type.
+6. Flight Phase Analysis: Monitor accidents during different flight stages.
+7. Multiple Filtering Options: Enable analysis by date, purpose, aircraft type, and country.
+8. Comprehensive Data View: Present both high-level and detailed accident information.
 
 Stakeholders:
-1. E-commerce Business Owners
-2. Sales and Marketing Teams
-3. Supply Chain Managers
-4. Financial Analysts
-5. Customer Service Teams
-6. Product Development Teams
-7. Logistics and Operations Teams
-8. Investors and Business Partners
+1. Aviation Safety Authorities
+2. Airport Management Teams
+3. Aircraft Manufacturers
+4. Aviation Insurance Companies
+5. Flight Training Organizations
+6. Commercial Airlines
+7. Aviation Policy Makers
+8. Air Traffic Control Organizations
 
 Steps in Project:
-1. Requirement Gathering
-2. Stakeholder Identification
-3. Data Collection from e-commerce databases
-4. Data Cleaning and Formatting in Excel
-5. Data Modeling and Pivot Table Creation
-6. Dashboard Design and Layout Development
-7. Chart and Graph Integration for Visual Insights
-8. Insights Documentation and Final Presentation
+1. Aviation Accident Data Collection
+2. Data Cleaning and Standardization
+3. Excel Database Structure Creation
+4. Dashboard Layout Design
+5. Visualization Development
+6. Filter Panel Implementation
+7. Quality Assurance Testing
+8. Documentation and Deployment
 
 Insights and Final Outcome:
-1. Total sales revenue recorded was $2,64,74,659, with a total profit of $24,95,874 and an average profit margin of 10.86%.
-2. The total order quantity was 2,84,209, indicating a significant volume of transactions.
-3. Monthly sales trends showed consistent revenue throughout the year, with slight peaks in certain months.
-4. Market regions such as Europe (25%) and LATAM (24%) dominated the sales distribution.
-5. The Consumer segment ($13.85M) accounted for the largest share of sales compared to Corporate and Home Office.
-6. Cardio Equipment ($4.66M) led the top categories, while Baby ($11.40K) ranked as the lowest-performing category.
-7. The United States ($3.71M) emerged as the top-performing country, while India ($0.59M) contributed the least among the top 10.
-8. The dashboard provided actionable insights to optimize product performance and regional sales strategies.
-
+1. Accident Overview: Total of 88,889 aviation accidents recorded.
+2. Injury Statistics: 50,201 fatal injuries, 21,377 serious injuries, 27,478 minor injuries, and 441,889 uninjured.
+3. Geographic Distribution: Anchorage, AK leads with 548 accidents, followed by Miami, FL (275) and Houston, TX (271).
+4. Aircraft Damage: 64,148 aircraft destroyed, 18,623 with substantial damage, 3,194 with minor damage.
+5. Purpose of Flight: Personal flights account for the highest accidents (49,448), followed by Unknown (10,601).
+6. Flight Phase Analysis: Landing (15,428) and Takeoff (12,493) show the highest accident rates.
+7. Historical Trend: Shows significant decline in accidents from 1980s to present.
+8. Comprehensive Filtering: Multiple filter options, including date, purpose of flight, aircraft category, and country.
